@@ -1,4 +1,4 @@
-# Generate Yearly Report Dispatcher
+# Generate Yearly Report (Dispatcher | Performer)
 An Robotic Process Automation(RPA) project used to generate yearly report for vendors using UIPath tool. Dispatcher Process will dispatch transaction items to Orchestrator Queue for processing by Performer Process.
 
 ## Description
